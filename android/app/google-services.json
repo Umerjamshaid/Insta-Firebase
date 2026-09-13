@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381421270156",
+    "project_id": "plant-guy",
+    "storage_bucket": "plant-guy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381421270156:android:69cbd436bca20f75abb7a9",
+        "android_client_info": {
+          "package_name": "com.example.insta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGV4Wd2cV0IGdjCLTL-CDDKh4j8sp2fWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
